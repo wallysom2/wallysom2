@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu GitHub! 👋
 
-<img align="right" width=30% src="https://user-images.githubusercontent.com/37665843/233433635-e3ed1402-5574-4ab3-9799-4df35a66f2b8.gif" />
+<img align="right" width=25% src="https://user-images.githubusercontent.com/37665843/233433635-e3ed1402-5574-4ab3-9799-4df35a66f2b8.gif" />
 
 Sou o Wallyson Matheus, formando em Desenvolvimento Full Stack pela [Driven Education](https://www.driven.com.br/). Estou sempre buscando aprender mais e me atualizar sobre as novas tecnologias e tendências no mercado e por aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fazer qualquer pergunta ou sugestão!
 
