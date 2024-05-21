@@ -1,12 +1,10 @@
 ## Bem-vindo ao meu GitHub! 👋
 
-<img align="right" width=26% src="https://user-images.githubusercontent.com/37665843/233432917-fb98da61-17db-4844-be44-6920989ec0ef.gif" />
-
 Sou o Wallyson Matheus, formando em Desenvolvimento Full Stack pela [Driven Education](https://www.driven.com.br/). Estou sempre buscando aprender mais e me atualizar sobre as novas tecnologias e tendências no mercado e por aqui você encontrará alguns dos meus projetos mais recentes. Sinta-se à vontade para explorar e fazer qualquer pergunta ou sugestão!
 
 ##
 
-Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 📸 Fotografia. 🌎 Viajar.
+Hobbies: 📖 Livros, ☕ Café. 🌎 Viajar.
 
 <h1></h1>
 
@@ -18,7 +16,6 @@ Hobbies: ☕ Café. 🏋️‍♂️ Crossfit. 📸 Fotografia. 🌎 Viajar.
     <img align="center" alt="Next.js" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     <img align="center" alt="ReactJS" height="40" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Styled-coponents" height="40" width="45" src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4">
-    <img align="center" alt="Tailwind" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
     <img align="center" alt="Prisma" height="40" width="40" src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/prisma.svg">
     <img align="center" alt="Mongo" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
     <img align="center" alt="Postgres" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
