@@ -88,7 +88,3 @@
 - English (Advanced)
 
 
-## 🤝 Let's Collaborate!
-
-I'm always open to new ideas and collaborations! If you have an interesting project or want to share knowledge, feel free to reach out.
-
