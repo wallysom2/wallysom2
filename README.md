@@ -1,59 +1,56 @@
-<h1 align="center">Hey! I'm Wallyson Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px"> </h1>
-<h3 align="center">Full Stack Developer | Tech Enthusiast</h3>
+# Hello, I'm Wallyson Matheus! 👋
 
-<h4 align="center">
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-
-</h4>
-
-##
-
-- 🎓 Formando em Tecnologia da Informação pelo [IMD - UFRN]([https://www.driven.com.br/](https://www.metropoledigital.ufrn.br/portal/))
-- 🚀 Apaixonado por construir soluções eficientes e aprender novas tecnologias
-- ☕ Viciado em café e sempre com um livro interessante na mesa
-- 🌍 Sonho em viajar pelo mundo explorando novas culturas
-- 🔭 Atualmente explorando **Arquitetura de Microsserviços** e **Cloud Computing**
-
-##
-
-### Tech Stack 💻
-
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-### Testing & Tools 🔧
-
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-##
-
-<div align="center">
-
-![Github Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wallysom2&theme=github_dark)
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wallysom2&theme=github_dark) 
-![Commits Activity](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=wallysom2&theme=github_dark)
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wallysom2&theme=github_dark&utcOffset=-3)
-
-##
-
-#### Let's Connect! 🤝
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallysom2/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wallysom2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallysom2)
-
-</div>
+- 🎓 **Education**: Bachelor's student in Information Technology at IMD/UFRN  
+- 💼 **Current Role**: Full Stack Developer at [Solução Tributos](https://site.sigest.online)  
+- 🌱 **Currently Learning**: Cloud Architecture & Distributed Systems  
+- 💡 **Interests**: Cloud computing, AI integration, and enterprise solutions  
+- 📫 **Contact**: [wallysom2@gmail.com](mailto:wallysom2@gmail.com)  
 
 ---
+
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wallysom2/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheu_oliv3ira)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wallysom2)  
+
+---
+
+## 🚀 Core Tech Stack  
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
+
+**Frontend**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+
+**Backend**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+**Databases**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+
+---
+
+## 📊 GitHub Analytics  
+
+<div align="center">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wallysom2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallysom2&layout=compact&theme=dracula&exclude_repo=driven,repo2&langs_count=8"/>  
+</div>  
+
+---
+
+## 💼 Current Focus  
+Developing integrated tax solutions at [Solução Tributos](https://site.sigest.online), working with:  
+- Scalable system architecture  
+- Government system integrations  
+- Automated tax calculation platforms  
+- Enterprise resource planning (ERP) systems  
