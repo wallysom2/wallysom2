@@ -8,7 +8,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 **Education**: Bachelor's student in Information Technology at IMD/UFRN  
-- 💼 **Current Role**: Full Stack Developer at [Solução Tributos](https://site.sigest.online)  
+- 💼 **Current Role**: Full Stack Developer at Solução Tributos  
 - 💡 **Interests**: Cloud computing, AI integration and enterprise solutions  
 
 ---
